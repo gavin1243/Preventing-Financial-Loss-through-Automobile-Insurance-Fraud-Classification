@@ -1,6 +1,6 @@
 # Preventing Financial Loss through Automobile Insurance Fraud Classification
 # Introduction
-Insurance fraud detection is a challenging problem, given the variety of fraud patterns and small ratio of known frauds in typical samples. Machine learning techniques allow for improving predictive accuracy, enabling loss control units to achieve higher coverage with low false-positive rates. In this dataset, machine learning techniques for fraud detection are presented and their performance is examined.
+Insurance fraud detection is a challenging problem, given the variety of fraud patterns and small ratio of known frauds in typical samples. Machine learning techniques allow for improving predictive accuracy, enabling loss control units to achieve higher coverage with low false-positive rates. In this project, machine learning techniques for fraud detection are presented and their performance is examined.
 
 Since the U.S faces insurance fraud of about $80 billion every year, we are trying to investigate what kind of factors are important while predicting insurance fraud. This would help insurance companies since they wouldn't need to investigate every single incident and would only spend time and money on the ones that are more likely to be frauds. We are thus trying to build a classification model to tell us whether the incident is more likely to be a fraud or not.
 # Pre-processing
